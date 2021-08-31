@@ -1,1 +1,0 @@
-# chillifire-hotspot-firmware
